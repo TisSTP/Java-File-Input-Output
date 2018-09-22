@@ -1,4 +1,4 @@
-package com.stp;
+package com.stp.file.io;
 
 import static java.nio.file.StandardOpenOption.APPEND;
 import static java.nio.file.StandardOpenOption.CREATE;
